@@ -22,7 +22,7 @@ export function ComingSoon() {
       <header className="relative z-10 p-6 md:p-10 flex justify-between items-center">
         <div className="flex items-center gap-2">
           <Building2 className="h-8 w-8 text-white" />
-          <span className="text-2xl font-bold tracking-tight">LuxeEstates</span>
+          <span className="text-2xl font-bold tracking-tight">FarhadRealy</span>
         </div>
         <Link href="/login" className="text-sm font-medium text-white/70 hover:text-white transition-colors">
           Admin Login
@@ -59,7 +59,7 @@ export function ComingSoon() {
 
       {/* Footer */}
       <footer className="relative z-10 p-6 md:p-10 flex flex-col md:flex-row justify-between items-center gap-4 text-white/50 text-sm">
-        <p>&copy; {new Date().getFullYear()} LuxeEstates. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} FarhadRealy. All rights reserved.</p>
         <div className="flex gap-6">
           <Link href="#" className="hover:text-white transition-colors"><Facebook className="h-5 w-5" /></Link>
           <Link href="#" className="hover:text-white transition-colors"><Twitter className="h-5 w-5" /></Link>

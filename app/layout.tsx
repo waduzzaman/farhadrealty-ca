@@ -5,8 +5,8 @@ import { Footer } from '@/components/footer';
 import { auth } from '@/auth';
 
 export const metadata: Metadata = {
-  title: 'LuxeEstates | Premium Real Estate Broker',
-  description: 'Find your dream home with LuxeEstates. Premium real estate listings and services.',
+  title: 'FarhadRealy | Premium Real Estate Broker',
+  description: 'Find your dream home with FarhadRealy. Premium real estate listings and services.',
 };
 
 export default async function RootLayout({children}: {children: React.ReactNode}) {

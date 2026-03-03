@@ -162,7 +162,7 @@ let blogs: BlogPost[] = [
 let users: User[] = [
   {
     id: '1',
-    email: 'admin@luxeestates.com',
+    email: 'admin@FarhadRealy.com',
     passwordHash: bcrypt.hashSync('admin123', 10),
     name: 'Admin User',
   }

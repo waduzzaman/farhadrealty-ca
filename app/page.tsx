@@ -95,7 +95,7 @@ export default async function Home() {
               />
             </div>
             <div className="space-y-6">
-              <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Why Choose LuxeEstates?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold tracking-tight">Why Choose FarhadRealy?</h2>
               <p className="text-lg text-muted-foreground">
                 With over 20 years of experience in the luxury real estate market, we provide unparalleled service and expertise to help you find the perfect property.
               </p>

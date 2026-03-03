@@ -12,7 +12,7 @@ export async function Footer() {
         <div className="space-y-4">
           <Link href="/" className="flex items-center gap-2">
             <Building2 className="h-6 w-6 text-primary" />
-            <span className="text-xl font-bold tracking-tight">LuxeEstates</span>
+            <span className="text-xl font-bold tracking-tight">FarhadRealy</span>
           </Link>
           <p className="text-sm text-muted-foreground">
             Your trusted partner in finding the perfect home. We provide premium real estate services with a focus on client satisfaction.
@@ -51,13 +51,13 @@ export async function Footer() {
             <li>123 Real Estate Blvd</li>
             <li>Beverly Hills, CA 90210</li>
             <li>Phone: (555) 123-4567</li>
-            <li>Email: info@luxeestates.com</li>
+            <li>Email: info@FarhadRealy.com</li>
           </ul>
         </div>
       </div>
       <div className="container mx-auto px-4 md:px-6 mt-12 pt-8 border-t flex flex-col md:flex-row justify-between items-center text-sm text-muted-foreground gap-4">
-        <p>&copy; {new Date().getFullYear()} LuxeEstates. All rights reserved.</p>
-        {!isAdmin && <Link href="/login" className="hover:text-primary">Admin Login</Link>}
+        <p>&copy; {new Date().getFullYear()} FarhadRealy. All rights reserved.</p>
+        {!isAdmin && <Link href="/login" className="hover:text-primary"></Link>}
       </div>
     </footer>
   );

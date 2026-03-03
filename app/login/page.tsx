@@ -18,10 +18,10 @@ export default function LoginPage() {
     <div className="container mx-auto flex items-center justify-center min-h-[calc(100vh-16rem)] px-4">
       <Card className="w-full max-w-md">
         <CardHeader className="space-y-1 text-center">
-          <CardTitle className="text-2xl font-bold">Admin Login</CardTitle>
+          <CardTitle className="text-2xl font-bold"></CardTitle>
           <CardDescription>
             Enter your email and password to access the dashboard.
-            <br/>(Hint: admin@luxeestates.com / admin123)
+            <br/>(Hint: admin@FarhadRealy.com / admin123)
           </CardDescription>
         </CardHeader>
         <CardContent>
@@ -32,7 +32,7 @@ export default function LoginPage() {
                 id="email" 
                 name="email"
                 type="email" 
-                placeholder="admin@luxeestates.com"
+                placeholder="admin@FarhadRealy.com"
                 required
               />
             </div>
