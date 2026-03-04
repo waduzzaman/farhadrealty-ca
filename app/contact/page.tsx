@@ -51,7 +51,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold text-lg">Email Address</h3>
-                <p className="text-muted-foreground">info@FarhadRealy.com<br />support@FarhadRealy.com</p>
+                <p className="text-muted-foreground">info@FarhadRealty.com<br />support@FarhadRealty.com</p>
               </div>
             </div>
 

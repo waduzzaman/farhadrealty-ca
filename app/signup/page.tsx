@@ -41,7 +41,7 @@ export default function SignupPage() {
                 id="email" 
                 name="email"
                 type="email" 
-                placeholder="admin@FarhadRealy.com"
+                placeholder="admin@FarhadRealty.com"
                 required
               />
             </div>

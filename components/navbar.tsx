@@ -29,7 +29,7 @@ export async function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
         <Link href="/" className="flex items-center gap-2">
           <Building2 className="h-6 w-6 text-primary" />
-          <span className="text-xl font-bold tracking-tight">FarhadRealy</span>
+          <span className="text-xl font-bold tracking-tight">FarhadRealty</span>
         </Link>
         
         {/* Desktop Nav */}
