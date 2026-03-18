@@ -21,7 +21,7 @@ export default function LoginPage() {
           <CardTitle className="text-2xl font-bold"></CardTitle>
           <CardDescription>
             Enter your email and password to access the dashboard.
-            <br/>(Hint: admin@FarhadRealty.com / admin123)
+            {/* <br/>(Hint: admin@FarhadRealty.com / admin123) */}
           </CardDescription>
         </CardHeader>
         <CardContent>
