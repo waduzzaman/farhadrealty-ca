@@ -32,7 +32,7 @@ export default function LoginPage() {
                 id="email" 
                 name="email"
                 type="email" 
-                placeholder="admin@FarhadRealty.com"
+                // placeholder="admin@FarhadRealty.com"
                 required
               />
             </div>
@@ -42,7 +42,7 @@ export default function LoginPage() {
                 id="password" 
                 name="password"
                 type="password" 
-                placeholder="••••••••"
+                // placeholder="••••••••"
                 required
               />
             </div>
